@@ -21,7 +21,6 @@ node_modules
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -48,3 +47,4 @@ Thumbs.db
 .cache/
 .local/
 .evn
+config.bat
